@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: Monday, Reviewed in One Line
 Slug: u-zeroxfive-monday-reviewed-in-one-line-e55de3c1
-Entry text (99 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
+Entry text (97 characters, gate max 200). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
