@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 
-> Monday arrived like an update nobody asked for: slow, loud, and somehow already behind schedule by 9 a.m.
+> Monday arrived like an update nobody asked for: slow, loud, and already behind schedule by 9 a.m.
 
 ## Run
 
